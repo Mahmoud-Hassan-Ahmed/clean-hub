@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421975446709",
+    "project_id": "clean-hub-9d9d1",
+    "storage_bucket": "clean-hub-9d9d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421975446709:android:83640e3a7758df0a405afc",
+        "android_client_info": {
+          "package_name": "com.example.clean_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421975446709-na6po21kf3m1fc4r46qkci56qqiseoat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clean_hub",
+            "certificate_hash": "78616594ccfc0249c11e7636a5d72e54a49cee28"
+          }
+        },
+        {
+          "client_id": "421975446709-susu0joieeaa16q43p8a213g1fguhqvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN8NG504PuGUQ-m40_AcuNskGfgelETZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421975446709-9id1qaj45g3ak3kddo5k3foueqcll92t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

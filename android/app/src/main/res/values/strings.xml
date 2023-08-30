@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clean Hub</string>
+    <string name="facebook_app_id">288636343766230</string>
+    <string name="fb_login_protocol_scheme">fb288636343766230</string>
+    <string name="facebook_client_token">359f7d727654b48d4113ed5d373d0c32</string>
+</resources>
